@@ -1,0 +1,28 @@
+1:
+  type: smelting
+  ingredient: minecraft:bamboo_block
+  result: minecraft:charcoal
+  amount: 1
+  experience: 0.15
+  cookingtime: 300
+2:
+  type: smelting
+  ingredient: minecraft:raw_copper_block
+  result: minecraft:copper_block
+  amount: 1
+  experience: 6
+  cookingtime: 800
+3:
+  type: smelting
+  ingredient: minecraft:raw_gold_block
+  result: minecraft:gold_block
+  amount: 1
+  experience: 6
+  cookingtime: 800
+4:
+  type: smelting
+  ingredient: minecraft:raw_iron_block
+  result: minecraft:iron_block
+  amount: 1
+  experience: 6
+  cookingtime: 800

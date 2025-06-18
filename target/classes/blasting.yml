@@ -1,0 +1,21 @@
+1:
+  type: smelting
+  ingredient: minecraft:raw_iron_block
+  result: minecraft:iron_block
+  amount: 1
+  experience: 6.0
+  cookingtime: 400
+2:
+  type: smelting
+  ingredient: minecraft:raw_iron_block
+  result: minecraft:iron_block
+  amount: 1
+  experience: 6.0
+  cookingtime: 400
+3:
+  type: smelting
+  ingredient: minecraft:raw_iron_block
+  result: minecraft:iron_block
+  amount: 1
+  experience: 6.0
+  cookingtime: 400

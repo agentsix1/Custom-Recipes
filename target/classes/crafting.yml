@@ -1,0 +1,857 @@
+1:
+  result: Minecraft:WATER_BUCKET
+  amount: 1
+  type: SHAPELESS
+  ingredients:
+    1:
+      - Minecraft:ICE
+      - Minecraft:BLUE_ICE
+      - Minecraft:PACKED_ICE
+    2:
+      - Minecraft:BUCKET
+2:
+  result: Minecraft:BONE_BLOCK
+  amount: 1
+  type: SHAPELESS
+  ingredients:
+    1:
+      - Minecraft:BONE
+    2:
+      - Minecraft:BONE
+    3:
+      - Minecraft:BONE
+3:
+  result: Minecraft:BONE_BLOCK
+  amount: 2
+  type: SHAPELESS
+  ingredients:
+    1:
+      - Minecraft:BONE
+    2:
+      - Minecraft:BONE
+    3:
+      - Minecraft:BONE
+    4:
+      - Minecraft:BONE
+    5:
+      - Minecraft:BONE
+    6:
+      - Minecraft:BONE
+4:
+  result: Minecraft:BONE_BLOCK
+  amount: 3
+  type: SHAPELESS
+  ingredients:
+    1:
+      - Minecraft:BONE
+    2:
+      - Minecraft:BONE
+    3:
+      - Minecraft:BONE
+    4:
+      - Minecraft:BONE
+    5:
+      - Minecraft:BONE
+    6:
+      - Minecraft:BONE
+    7:
+      - Minecraft:BONE
+    8:
+      - Minecraft:BONE
+    9:
+      - Minecraft:BONE
+5:
+  result: Minecraft:AMETHYST_SHARD
+  amount: 4
+  type: SHAPELESS
+  ingredients:
+    1:
+      - Minecraft:AMETHYST_BLOCK
+6:
+  result: Minecraft:BROWN_MUSHROOM_BLOCK
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'bb'
+    - 'bb'
+  ingredients:
+    b: 
+      - Minecraft:BROWN_MUSHROOM
+7:
+  result: Minecraft:RED_MUSHROOM_BLOCK
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'rr'
+    - 'rr'
+  ingredients:
+    r: 
+      - Minecraft:RED_MUSHROOM
+8:
+  result: Minecraft:MUSHROOM_STEM
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'rb'
+    - 'br'
+  ingredients:
+    b: 
+      - Minecraft:BROWN_MUSHROOM
+    r: 
+      - Minecraft:RED_MUSHROOM
+9:
+  result: Minecraft:MUSHROOM_STEM
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'br'
+    - 'rb'
+  ingredients:
+    b: 
+      - Minecraft:BROWN_MUSHROOM
+    r: 
+      - Minecraft:RED_MUSHROOM
+10:
+  result: Minecraft:COBBLED_DEEPSLATE
+  amount: 1
+  type: SHAPELESS
+  ingredients:
+    1: 
+      - Minecraft:DEEPSLATE
+11:
+  result: Minecraft:GLOWSTONE_DUST
+  amount: 1
+  type: SHAPELESS
+  ingredients:
+    1: 
+      - Minecraft:GLOWSTONE
+12:
+  result: Minecraft:GRINDSTONE
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'sts'
+    - 'p p'
+  ingredients:
+    s: 
+      - Minecraft:STICK
+    p:
+      - Minecraft:OAK_PLANKS
+      - Minecraft:SPRUCE_PLANKS
+      - Minecraft:BIRCH_PLANKS
+      - Minecraft:JUNGLE_PLANKS
+      - Minecraft:ACACIA_PLANKS
+      - Minecraft:DARK_OAK_PLANKS
+      - Minecraft:MANGROVE_PLANKS
+      - Minecraft:CHERRY_PLANKS
+      - Minecraft:BAMBOO_PLANKS
+      - Minecraft:CRIMSON_PLANKS
+      - Minecraft:WARPED_PLANKS
+    t:
+      - Minecraft:STONE_SLAB
+      - Minecraft:SMOOTH_STONE_SLAB
+      - Minecraft:COBBLESTONE_SLAB
+      - Minecraft:MOSSY_COBBLESTONE_SLAB
+      - Minecraft:STONE_BRICK_SLAB
+      - Minecraft:MOSSY_STONE_BRICK_SLAB
+      - Minecraft:GRANITE_SLAB
+      - Minecraft:POLISHED_GRANITE_SLAB
+      - Minecraft:ANDESITE_SLAB
+      - Minecraft:POLISHED_ANDESITE_SLAB
+      - Minecraft:DIORITE_SLAB
+      - Minecraft:POLISHED_DIORITE_SLAB
+      - Minecraft:COBBLED_DEEPSLATE_SLAB
+      - Minecraft:POLISHED_DEEPSLATE_SLAB
+      - Minecraft:DEEPSLATE_BRICK_SLAB
+      - Minecraft:DEEPSLATE_TILE_SLAB
+      - Minecraft:BLACKSTONE_SLAB
+      - Minecraft:POLISHED_BLACKSTONE_SLAB
+      - Minecraft:POLISHED_BLACKSTONE_BRICK_SLAB
+      - Minecraft:TUFF_SLAB
+      - Minecraft:POLISHED_TUFF_SLAB
+      - Minecraft:TUFF_BRICK_SLAB
+13:
+  result: Minecraft:LARGE_FERN
+  amount: 1
+  type: SHAPELESS
+  ingredients:
+    1: 
+      - Minecraft:FERN
+    2: 
+      - Minecraft:FERN
+14:
+  result: Minecraft:NETHER_WART
+  amount: 9
+  type: SHAPELESS
+  ingredients:
+    1: 
+      - Minecraft:NETHER_WART_BLOCK
+15:
+  result: Minecraft:QUARTZ
+  amount: 4
+  type: SHAPELESS
+  ingredients:
+    1: 
+      - Minecraft:QUARTZ_BLOCK
+16:
+  result: Minecraft:ROOTED_DIRT
+  amount: 1
+  type: SHAPED
+  shape:
+    - ' r '
+    - 'rdr'
+    - ' r '
+  ingredients:
+    r: 
+      - Minecraft:HANGING_ROOTS
+    d: 
+      - Minecraft:DIRT
+      - Minecraft:GRAVEL
+      - Minecraft:SAND
+      - Minecraft:GRASS_BLOCK
+17:
+  result: Minecraft:SADDLE
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'lll'
+    - 's s'
+    - 'i i'
+  ingredients:
+    l: 
+      - Minecraft:LEATHER
+    s: 
+      - Minecraft:STRING
+    i:
+      - Minecraft:IRON_INGOT
+18:
+  result: Minecraft:COBBLESTONE
+  amount: 1
+  type: SHAPELESS
+  ingredients:
+    1: 
+      - Minecraft:STONE
+19:
+  result: Minecraft:COBWEB
+  amount: 1
+  type: SHAPED
+  shape:
+    - 's s'
+    - ' s '
+    - 's s'
+  ingredients:
+    s:
+      - Minecraft:STRING
+20:
+  result: Minecraft:TALL_GRASS
+  amount: 1
+  type: SHAPELESS
+  ingredients:
+    1: 
+      - Minecraft:SHORT_GRASS
+    2: 
+      - Minecraft:SHORT_GRASS
+21:
+  result: Minecraft:STRING
+  amount: 4
+  type: SHAPELESS
+  ingredients:
+    1: 
+      - Minecraft:WHITE_WOOL
+      - Minecraft:LIGHT_GRAY_WOOL
+      - Minecraft:GRAY_WOOL
+      - Minecraft:DARK_GRAY_WOOL
+      - Minecraft:BROWN_WOOL
+      - Minecraft:RED_WOOL
+      - Minecraft:ORANGE_WOOL
+      - Minecraft:YELLOW_WOOL
+      - Minecraft:LIME_WOOL
+      - Minecraft:GREEN_WOOL
+      - Minecraft:CYAN_WOOL
+      - Minecraft:LIGHT_BLUE_WOOL
+      - Minecraft:BLUE_WOOL
+      - Minecraft:PURPLE_WOOL
+      - Minecraft:MAGENTA_WOOL
+      - Minecraft:PINK_WOOL
+22:
+  result: Minecraft:ARMOR_STAND
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'ttt'
+    - ' t '
+    - 'tst'
+  ingredients:
+    t:
+      - Minecraft:STICK
+    s:
+      - Minecraft:STONE_SLAB
+      - Minecraft:SMOOTH_STONE_SLAB
+      - Minecraft:COBBLESTONE_SLAB
+      - Minecraft:MOSSY_COBBLESTONE_SLAB
+      - Minecraft:STONE_BRICK_SLAB
+      - Minecraft:MOSSY_STONE_BRICK_SLAB
+      - Minecraft:GRANITE_SLAB
+      - Minecraft:POLISHED_GRANITE_SLAB
+      - Minecraft:ANDESITE_SLAB
+      - Minecraft:POLISHED_ANDESITE_SLAB
+      - Minecraft:DIORITE_SLAB
+      - Minecraft:POLISHED_DIORITE_SLAB
+      - Minecraft:COBBLED_DEEPSLATE_SLAB
+      - Minecraft:POLISHED_DEEPSLATE_SLAB
+      - Minecraft:DEEPSLATE_BRICK_SLAB
+      - Minecraft:DEEPSLATE_TILE_SLAB
+      - Minecraft:BLACKSTONE_SLAB
+      - Minecraft:POLISHED_BLACKSTONE_SLAB
+      - Minecraft:POLISHED_BLACKSTONE_BRICK_SLAB
+      - Minecraft:TUFF_SLAB
+      - Minecraft:POLISHED_TUFF_SLAB
+      - Minecraft:TUFF_BRICK_SLAB
+23:
+  result: Minecraft:BLAST_FURNACE
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'iii'
+    - 'ifi'
+    - 'sss'
+  ingredients:
+    i:
+      - Minecraft:IRON_INGOT
+    f:
+      - Minecraft:FURNACE
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+24:
+  result: Minecraft:BREWING_STAND
+  amount: 1
+  type: SHAPED
+  shape:
+    - ' b '
+    - 'sss'
+  ingredients:
+    b:
+      - Minecraft:BLAZE_ROD
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+25:
+  result: Minecraft:COMPARATOR
+  amount: 1
+  type: SHAPED
+  shape:
+    - ' r '
+    - 'rqr'
+    - 'sss'
+  ingredients:
+    r:
+      - Minecraft:REDSTONE_TORCH
+    q:
+      - Minecraft:QUARTZ
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+26:
+  result: Minecraft:DISPENSER
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'sss'
+    - 'sbs'
+    - 'srs'
+  ingredients:
+    r:
+      - Minecraft:REDSTONE
+    b:
+      - Minecraft:BOW
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+27:
+  result: Minecraft:DROPPER
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'sss'
+    - 's s'
+    - 'srs'
+  ingredients:
+    r:
+      - Minecraft:REDSTONE
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+28:
+  result: Minecraft:FURNACE
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'sss'
+    - 's s'
+    - 'sss'
+  ingredients:
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+29:
+  result: Minecraft:GRAVEL
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'ff'
+    - 'ff'
+  ingredients:
+    f:
+      - Minecraft:FLINT
+30:
+  result: Minecraft:LEVER
+  amount: 1
+  type: SHAPED
+  shape:
+    - 't'
+    - 's'
+  ingredients:
+    t:
+      - Minecraft:STICK
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+31:
+  result: Minecraft:OBSERVER
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'sss'
+    - 'rrq'
+    - 'sss'
+  ingredients:
+    r:
+      - Minecraft:REDSTONE
+    q:
+      - Minecraft:QUARTZ
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+32:
+  result: Minecraft:PISTON
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'ppp'
+    - 'sis'
+    - 'srs'
+  ingredients:
+    r:
+      - Minecraft:REDSTONE
+    i:
+      - Minecraft:IRON_INGOT
+    p:
+      - Minecraft:OAK_PLANKS
+      - Minecraft:SPRUCE_PLANKS
+      - Minecraft:BIRCH_PLANKS
+      - Minecraft:JUNGLE_PLANKS
+      - Minecraft:ACACIA_PLANKS
+      - Minecraft:DARK_OAK_PLANKS
+      - Minecraft:MANGROVE_PLANKS
+      - Minecraft:CHERRY_PLANKS
+      - Minecraft:BAMBOO_PLANKS
+      - Minecraft:CRIMSON_PLANKS
+      - Minecraft:WARPED_PLANKS
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+33:
+  result: Minecraft:REPEATER
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'trt'
+    - 'sss'
+  ingredients:
+    r:
+      - Minecraft:REDSTONE
+    t:
+      - Minecraft:REDSTONE_TORCH
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+34:
+  result: Minecraft:STICKY_PISTON
+  amount: 1
+  type: SHAPELESS
+  ingredients:
+    1:
+      - Minecraft:PISTON
+    2:
+      - Minecraft:HONEY_BOTTLE
+35:
+  result: Minecraft:STONE_AXE
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'ss'
+    - 'st'
+    - ' t'
+  ingredients:
+    t:
+      - Minecraft:STICK
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+36:
+  result: Minecraft:STONE_HOE
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'ss'
+    - ' t'
+    - ' t'
+  ingredients:
+    t:
+      - Minecraft:STICK
+      - Minecraft:WARPED_PLANKS
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+37:
+  result: Minecraft:STONE_PICKAXE
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'sss'
+    - ' t '
+    - ' t '
+  ingredients:
+    t:
+      - Minecraft:STICK
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+38:
+  result: Minecraft:STONE_SHOVEL
+  amount: 1
+  type: SHAPED
+  shape:
+    - 's'
+    - 't'
+    - 't'
+  ingredients:
+    t:
+      - Minecraft:STICK
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
+39:
+  result: Minecraft:STONECUTTER
+  amount: 1
+  type: SHAPED
+  shape:
+    - ' i '
+    - 'sss'
+  ingredients:
+    i:
+      - Minecraft:IRON_INGOT
+    s:
+      - Minecraft:STONE
+      - Minecraft:SMOOTH_STONE
+      - Minecraft:COBBLESTONE
+      - Minecraft:MOSSY_COBBLESTONE
+      - Minecraft:STONE_BRICK
+      - Minecraft:MOSSY_STONE_BRICK
+      - Minecraft:GRANITE
+      - Minecraft:POLISHED_GRANITE
+      - Minecraft:ANDESITE
+      - Minecraft:POLISHED_ANDESITE
+      - Minecraft:DIORITE
+      - Minecraft:POLISHED_DIORITE
+      - Minecraft:COBBLED_DEEPSLATE
+      - Minecraft:POLISHED_DEEPSLATE
+      - Minecraft:DEEPSLATE_BRICK
+      - Minecraft:DEEPSLATE_TILE
+      - Minecraft:BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE
+      - Minecraft:POLISHED_BLACKSTONE_BRICK
+      - Minecraft:TUFF
+      - Minecraft:POLISHED_TUFF
+      - Minecraft:TUFF_BRICK
