@@ -1,4 +1,5 @@
 name: recipies
 main: com.normalsurvival.Plugin
-version: 1.0-SNAPSHOT
-api-version: 1.21
+version: 1.0
+api-version: 1.13
+folia-supported: true

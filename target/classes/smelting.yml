@@ -26,3 +26,10 @@
   amount: 1
   experience: 6
   cookingtime: 800
+5:
+  type: smelting
+  ingredient: minecraft:rotten_flesh
+  result: minecraft:cooked_beef
+  amount: 1
+  experience: 0.15
+  cookingtime: 200
