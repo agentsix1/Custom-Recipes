@@ -1,7 +1,7 @@
 # Custom-Recipies
 Create custom crafting recipies with ease!
 
-## (Download)[https://github.com/agentsix1/Custom-Recipies/blob/main/target/recipies-1.0-SNAPSHOT.jar]
+## [Download](https://github.com/agentsix1/Custom-Recipies/blob/main/target/recipies-1.0-SNAPSHOT.jar)
 
 ### Supported Recipies
 - Blasting
