@@ -1228,4 +1228,16 @@
       - Minecraft:TUFF
       - Minecraft:POLISHED_TUFF
       - Minecraft:TUFF_BRICK
-  
+  57:
+  result: Minecraft:TNT
+  amount: 1
+  type: SHAPED
+  shape:
+    - 'pgp'
+    - 'gpg'
+    - 'pgp'
+  ingredients:
+    p: 
+      - Minecraft:PAPER
+    g: 
+      - Minecraft:GUN_POWDER
