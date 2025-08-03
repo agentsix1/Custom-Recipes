@@ -20,11 +20,17 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
 
+    - name: Extract plugin version from plugin.yml
+      id: get_version
+      run: |
+        VERSION=$(grep '^version:' Custom-Recipies/src/main/resources/plugin.yml | cut -d ' ' -f2)
+        echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
     - name: Build with Maven
       run: mvn -B package --file pom.xml
 
     - name: Upload JAR Artifact
       uses: actions/upload-artifact@v4
       with:
-        name: recipes_v0.1
+        name: recipes_${{ steps.get_version.outputs.version }}
         path: target/*.jar
