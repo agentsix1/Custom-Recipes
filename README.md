@@ -10,4 +10,4 @@ Create custom crafting recipies with ease!
 
 # Built In or Custom Recipies
 - Comes with **5 Blasting and Smelting Recipies**
-- Comes with **56 Crafting Recipies** 
+- Comes with **57 Crafting Recipies** 
