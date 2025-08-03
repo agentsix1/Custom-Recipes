@@ -26,5 +26,5 @@ jobs:
     - name: Upload JAR Artifact
       uses: actions/upload-artifact@v4
       with:
-        name: SpigotPlugin
+        name: recipes_v0.1
         path: target/*.jar
