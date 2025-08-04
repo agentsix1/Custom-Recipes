@@ -1,10 +1,10 @@
 # Custom-Recipies
 Create custom crafting recipies with ease!
 
-# Stable Release v0.1 Download
-## [Download](https://github.com/agentsix1/Custom-Recipes/releases/tag/Stable)
+## Stable Release v0.1 Download
+### [Download](https://github.com/agentsix1/Custom-Recipes/releases/tag/Stable)
 
-# Wiki (Coming Soon!)
+## Wiki (Coming Soon!)
 
 ### Supported Recipies
 - Blasting
