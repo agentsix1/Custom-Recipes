@@ -3,9 +3,8 @@ Create custom crafting recipies with ease!
 
 ##
 ![Static Shield](https://img.shields.io/badge/download-v0.1-blue)
-  
-  
-  
+##
+
 ## Wiki (Coming Soon!)
 
 ### Supported Recipies
