@@ -1,8 +1,8 @@
 # Custom-Recipies
 Create custom crafting recipies with ease!
 
-## Stable Release v0.1 Download
-### [Download](https://github.com/agentsix1/Custom-Recipes/releases/tag/Stable)  
+##
+~[Static Shield](https://img.shields.io/badge/download-v0.1-blue)
   
   
   
